@@ -1,0 +1,32 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ff0000;
+  background-color: #fdfdff;
+}
+
+.site-navigation-item a {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #e200fb;
+  text-decoration: none;
+}
+
+ h1 {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 44px;
+  line-height: 60px;
+  text-transform: uppercase;
+}
+
+
+
+/*
+.blog-relevance {
+  displey: blok;
+  
+}
+  */

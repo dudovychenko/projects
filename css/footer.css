@@ -1,0 +1,80 @@
+
+.main-footer {
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.footer-navigation-topics {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.footer-navigation-topic h2 {
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.footer-navigation-item a {
+  color: #4b1eb3;
+  text-decoration: none;
+}
+
+.policy a {
+  color: #a3ee00;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+/*
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 50px;
+    background-color: #18191C;
+    color: #f694ff;
+    font-family: "Roboto", sans-serif;
+}
+    
+form div {
+    margin-top: 1rem;
+}
+ 
+label, input, textarea, button, select{
+    font-size: 1.3rem;
+    line-height: 1.2
+}
+ 
+form {
+    width: 30em;
+    max-width: 90%;
+    margin: 0 auto;
+}
+ 
+label {
+    margin-bottom: 0.4rem;
+    display: block;
+}
+ 
+input, textarea {
+    padding: 0.4rem;
+    width: 100%;
+}
+ 
+button {
+    margin-top: 2rem;
+    background: #d2cf20;
+    color: #000000;
+    border: none;
+    padding: 0.6rem;
+}
+    */
